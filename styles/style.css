@@ -1,8 +1,104 @@
-<style>
-<body>
+ <body>
     <div id="content">
         <header>
-        max-width: 500px;
+    .max-width: 1600px;
+    #background {
+        height: 725px;
+    }
         </footer>
     </div>
 </body>
+
+body {
+    background-color: #2b2d42; 
+}
+header {
+    background-color:#edf2f4;
+}
+nav a:hover {
+    background-color: #04c863;
+    color: #2b2d42;
+}
+.book, .join{
+    background-color:#2b2d42;
+    color: #edf2f4;
+}
+.book:hover, .join:hover{
+    background:#edf2f4;
+    color: #ffdc64;
+}
+#background{
+    background-color:#04c863;
+}
+.msg{
+    background-color:#ffdc64;
+}
+footer{
+    background-color:#2b2d42;
+}
+.home-title{
+    background-color:#2b2d42;
+    color: #edf2f4;
+}
+h4{
+    background-color:#2b2d42;
+    color: #edf2f4;
+}
+.msg h2{
+    background-color:#2b2d42;
+    color: #edf2f4;
+}
+.msg p{
+    background-color:#2b2d42;
+    color: #edf2f4;
+}
+footer a{
+    background-color:#2b2d42;
+    color: #edf2f4;
+}
+footer a:hover{
+    background-color:#2b2d42;
+    color: #edf2f4;
+
+
+}
+.logo{
+    width: 80px;
+}
+
+.icon {
+    width: 80px;
+}
+
+#hero-img {
+    width: 100%;
+}
+
+
+nav a {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+}    
+
+.book, .join {
+    text-align: center;
+    color: #ffdc64;
+    text-decoration: none;
+}    
+
+footer a {
+    text-align: center;
+    color: #ffdc64;
+    text-decoration: none;
+}    
+
+
+footer p {
+    font-size: 1.2em;
+}   
+
+
+footer p a:hover {
+    text-decoration: underline;
+}    
