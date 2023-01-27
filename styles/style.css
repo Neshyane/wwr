@@ -1,13 +1,17 @@
- <body>
-    <div id="content">
-        <header>
-    .max-width: 1600px;
-    #background {
-        height: 725px;
-    }
-        </footer>
-    </div>
-</body>
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,500&family=Sofia+Sans:wght@300&display=swap');
+
+a {
+    font-family: "Poppins", sans-serif;
+}
+
+p {
+    font-family: "Sofia Sans", sans-serif;
+}
+
+#content {
+    max-width: 1600px;
+    margin: 0 auto;
+  }
 
 body {
     background-color: #2b2d42; 
