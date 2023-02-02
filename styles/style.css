@@ -63,7 +63,7 @@ p {
       display: none;
     }
     .home-title {
-      font-size: 25px;
+      font-size: 2em;
       color: #2b2d42;
     }
     .rivers-card,
@@ -238,6 +238,7 @@ p {
   .msg p {
     color: #2b2d42;
     padding-bottom: 15px;
+    font-size: .8em;
   }
   
   footer h3 {
