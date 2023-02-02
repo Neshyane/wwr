@@ -178,6 +178,10 @@ p {
     padding: 0;
   }
   
+  h2 {
+    margin: 0;
+  }
+
   header {
     background-color: #04c863;
   }
